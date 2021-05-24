@@ -1,0 +1,13 @@
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\bin\Debug\netcoreapp3.1\Lab16CountriesIO.exe
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\bin\Debug\netcoreapp3.1\Lab16CountriesIO.deps.json
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\bin\Debug\netcoreapp3.1\Lab16CountriesIO.runtimeconfig.json
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\bin\Debug\netcoreapp3.1\Lab16CountriesIO.runtimeconfig.dev.json
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\bin\Debug\netcoreapp3.1\Lab16CountriesIO.dll
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\bin\Debug\netcoreapp3.1\Lab16CountriesIO.pdb
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\obj\Debug\netcoreapp3.1\Lab16CountriesIO.AssemblyInfoInputs.cache
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\obj\Debug\netcoreapp3.1\Lab16CountriesIO.AssemblyInfo.cs
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\obj\Debug\netcoreapp3.1\Lab16CountriesIO.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\obj\Debug\netcoreapp3.1\Lab16CountriesIO.dll
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\obj\Debug\netcoreapp3.1\Lab16CountriesIO.pdb
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\obj\Debug\netcoreapp3.1\Lab16CountriesIO.genruntimeconfig.cache
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week7\Lab16CountriesIO\Lab16CountriesIO\obj\Debug\netcoreapp3.1\Lab16CountriesIO.csprojAssemblyReference.cache

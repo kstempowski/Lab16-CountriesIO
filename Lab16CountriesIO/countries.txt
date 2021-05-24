@@ -1,0 +1,4 @@
+United States|English|Moderate|North America
+Japan|Japanese|Warm|Asia
+Russia|Russian|Cold|Asia
+France|French|Moderate|Europe
